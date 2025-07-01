@@ -33,3 +33,6 @@ data/processed/*
 # UV specific ignores
 .python-version
 uv.lock
+
+# Sacred specific ignores
+sacred_experiments/*
